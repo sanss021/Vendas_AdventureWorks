@@ -8,6 +8,10 @@ Este projeto é um dashboard interativo para visualização de dados de vendas u
 
 _Bem-vindo ao Dashboard AdventureWorks!_
 
+![Imagem do Dashboard](Armazenamento interno/Download/Dash-01.png)
+
+_Bem-vindo ao Dashboard AdventureWorks!_
+
 Este dashboard foi desenvolvido para simplificar a análise de dados de vendas. Ele oferece uma interface amigável para a visualização de KPIs e gráficos interativos.
 
 ---
