@@ -8,7 +8,7 @@ Este projeto é um dashboard interativo para visualização de dados de vendas u
 
 _Bem-vindo ao Dashboard AdventureWorks!_
 
-![Alt text](./Download/Dash-01.png)
+![Alt text](https://github.com/sanss021/Vendas_AdventureWorks/issues/1)
 
 
 
